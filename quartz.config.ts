@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "",
     },
     locale: "en-US",
-    baseUrl: "binarydigitlol.github.io",
+    baseUrl: "liz.computer",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
@@ -24,8 +24,8 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "Schibsted Grotesk",
-        body: "Source Sans Pro",
-        code: "IBM Plex Mono",
+        body: "",
+        code: "Roboto Mono",
       },
       colors: {
         lightMode: {
