@@ -16,7 +16,7 @@ const config: QuartzConfig = {
       provider: "",
     },
     locale: "en-US",
-    baseUrl: "garden.liz.computer",
+    baseUrl: "binarydigitlol.github.io",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "modified",
     theme: {
