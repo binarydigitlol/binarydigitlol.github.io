@@ -1,9 +1,9 @@
 ---
 title: Welcome to my digital garden
 ---
+![Photo by Lorenzo Herrera on Unsplash](https://bear-images.sfo2.cdn.digitaloceanspaces.com/liz/unsplash-banner.webp)
 
-# This is a heading
 
-This is under construction. I finally got Quartz working!
+I finally got Quartz working!
 
 ![Under Construction gif](https://binarycdn.b-cdn.net/under-construction.gif)
