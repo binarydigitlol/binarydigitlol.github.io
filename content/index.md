@@ -1,9 +1,8 @@
 ---
-title: Welcome to my digital garden
+title: Welcome!
 ---
-![Photo by Lorenzo Herrera on Unsplash](https://bear-images.sfo2.cdn.digitaloceanspaces.com/liz/unsplash-banner.webp)
+🌱 🪴
 
+I’m Liz, aka B. I'm a tech director, artist, casual gamer and CSS tinkerer. I love the small web, retro tech, travel, art, fashion, photography and currently working on a creative digital garden. This site is always under in progress!
 
-I finally got Quartz working!
-
-![Under Construction gif](https://binarycdn.b-cdn.net/under-construction.gif)
+Subscribe to my updated [RSS feed](/index.xml), sign my [guestbook](/guestbook/), or say hi via [email](/about#contact/)!
