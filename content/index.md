@@ -1,6 +1,7 @@
 ---
-title: Welcome to Quartz
+title: Welcome to my digital garden
 ---
 
-This is a blank Quartz installation.
-See the [documentation](https://quartz.jzhao.xyz) for how to get started.
+This is under contstruction. I finally got Quartz working!
+
+![Under Construction gif](https://binarycdn.b-cdn.net/under-construction.gif)
