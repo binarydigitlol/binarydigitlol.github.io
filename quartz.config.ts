@@ -8,8 +8,8 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Liz's Garden",
-    pageTitleSuffix: " ",
+    pageTitle: "Liz's Digital Garden",
+    pageTitleSuffix: " | Liz.computer",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
@@ -24,7 +24,7 @@ const config: QuartzConfig = {
       cdnCaching: true,
       typography: {
         header: "",
-        body: "Roboto Mono",
+        body: "Roboto",
         code: "Roboto Mono",
       },
       colors: {
