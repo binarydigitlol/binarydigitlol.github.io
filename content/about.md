@@ -3,8 +3,7 @@ title: "About"
 alias:
   - "contact"
 ---
-
-I go by the name Liz Roboto - some people know me as B online. I was born in New York City and grew up on Long Island. I went to college to get my bachelors in Computer Science and find my way into a career of tech support, product training, systems engineering, and web development.
+I was born in New York City and grew up on Long Island. I went to college to get my bachelors in Computer Science and find my way into a career of tech support, product training, systems engineering, and web development.
 
 In 2017 I quit my tech job due to major burn out then took a full time full stack web developer bootcamp to pivot to become a software engineer. In 2021 I took a part time game development course via Code Coven to learn the foundations of Epic’s Unreal Engine and really enjoyed learning game making and design. Today I’m a technical director for a media brand in the health and wellness space and live with my partner and two husky lab twin dogs in Michigan.
 
@@ -12,7 +11,7 @@ In my spare time I like to practice art, coding, writing, mixing music, live str
 
 ### Contact
 
-Feel free to contact me below or at ```Liz[at]foobox.com```
+Feel free to contact me below!
 
 <script data-letterbirduser="liz" src="https://letterbird.co/embed/v1.js"></script>
 
@@ -21,3 +20,4 @@ Feel free to contact me below or at ```Liz[at]foobox.com```
 ### Colophon
 - Site created with [Quartz](https://quartz.jzhao.xyz/)
 - Guestbook powered by [Guestbooks](https://guestbooks.meadow.cafe/)
+- Contact form via [Letterbird](https://letterbird.co/)
