@@ -5,7 +5,6 @@ alias:
 date: 2025-06-09 23:55
 updated: 2025-06-17 21:00
 socialDescription: Quartz to the rescue!
-socialImage: https://bear-images.sfo2.cdn.digitaloceanspaces.com/liz/og-image.webp
 tags: articles, obsidian, quartz
 ---
 

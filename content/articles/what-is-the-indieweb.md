@@ -4,7 +4,6 @@ alias:
   - "what-is-the-indieweb"
 date: 2025-05-07 14:31
 socialDescription: Take control of your content.
-socialImage: https://bear-images.sfo2.cdn.digitaloceanspaces.com/liz/og-image.webp
 tags: indieweb, articles
 ---
 

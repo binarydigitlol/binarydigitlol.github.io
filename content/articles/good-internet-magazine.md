@@ -4,7 +4,6 @@ alias:
   - "good-internet-magazine"
 date: 2025-05-28 08:26
 socialDescription: My first contribution article is live!
-socialImage: https://bear-images.sfo2.cdn.digitaloceanspaces.com/liz/og-image.webp
 tags: indieweb, articles, goodinternet
 ---
 I contributed to my first internet magazine by [Xandra](https://xandra.cc) - Good Internet!
