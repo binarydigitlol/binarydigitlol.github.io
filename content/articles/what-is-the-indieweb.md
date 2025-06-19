@@ -4,7 +4,7 @@ alias:
   - "what-is-the-indieweb"
 date: 2025-05-07 14:31
 socialDescription: Take control of your content.
-tags: indieweb, articles
+tags: indieweb
 ---
 
 What is the IndieWeb?

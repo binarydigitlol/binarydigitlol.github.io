@@ -13,18 +13,24 @@ export default ((opts?: Options) => {
     const links = opts?.links ?? []
     return (
       <footer class={`${displayClass ?? ""}`}>
-        <p><small>
-          {i18n(cfg.locale).components.footer.createdWith}{" "}
-          <a href="https://quartz.jzhao.xyz/">Quartz</a> © {year}
-        </small></p> 
-        <ul>
-          {Object.entries(links).map(([text, link]) => (
-            <li>
-              <a href={link}>{text}</a>
-            </li>
-          ))}
-        </ul>
+        <img src="https://binarycdn.b-cdn.net/retrowave-border.png"/>
+        <p>
+          <ul>
+            {Object.entries(links).map(([text, link]) => (
+              <li>
+                <a href={link}>{text}</a>
+              </li>
+            ))}
+          </ul>  
 
+          <a href="https://xn--sr8hvo.ws/previous">  ←</a>
+          <a href="https://xn--sr8hvo.ws">IndieWeb Webring</a>
+          <a href="https://xn--sr8hvo.ws/next">→ </a>
+
+        </p> 
+        
+         
+        
       </footer>
     )
   }
@@ -32,3 +38,5 @@ export default ((opts?: Options) => {
   Footer.css = style
   return Footer
 }) satisfies QuartzComponentConstructor
+
+// {i18n(cfg.locale).components.footer.createdWith}{" "} <a href="https://quartz.jzhao.xyz/">Quartz</a> © {year}

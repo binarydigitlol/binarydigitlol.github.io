@@ -5,7 +5,7 @@ alias:
 date: 2025-05-28 08:26
 socialDescription: My first contribution article is live!
 socialImage: https://binarycdn.b-cdn.net/liz/og-image.png
-tags: indieweb, articles, goodinternet
+tags: indieweb, goodinternet
 ---
 I contributed to my first internet magazine by [Xandra](https://xandra.cc) - Good Internet!
 

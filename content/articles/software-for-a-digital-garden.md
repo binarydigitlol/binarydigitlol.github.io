@@ -5,7 +5,7 @@ alias:
 date: 2025-06-09 23:55
 updated: 2025-06-17 21:00
 socialDescription: Quartz to the rescue!
-tags: articles, obsidian, quartz
+tags: obsidian, quartz
 ---
 
 I might finally be able to make a digital garden with a self hosted version of [Quartz](https://quartz.jzhao.xyz/). Since the goal of this site was originally to be "un-posse" and just kind of exist on the internet, and I wanted it to be a collection of cool ideas, notes, inspiration, etc, I might switch it from bear blog to self hosted. Let's see how I feel this week. 

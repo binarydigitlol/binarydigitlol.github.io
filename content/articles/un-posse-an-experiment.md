@@ -4,7 +4,7 @@ alias:
   - "un-posse-an-experiment"
 date: 2025-02-19 09:39
 socialDescription: ot Gonna POSSE
-tags: posse, articles
+tags: posse
 ---
 
 > [!info]POSSE - Publish (on your) Own Site, Syndicate Elsewhere
