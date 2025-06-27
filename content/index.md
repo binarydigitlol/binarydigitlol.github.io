@@ -1,5 +1,5 @@
 ---
-title: Liz's Notebook
+title: Welcome to the Motherboard
 image: https://cdn.liz.computer/liz/paper.png
 ---
 <link rel="me" href="https://social.lol/@binarydigit"/>
