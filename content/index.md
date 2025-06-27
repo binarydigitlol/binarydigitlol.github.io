@@ -1,6 +1,6 @@
 ---
 title: Liz's Notebook
-image: https://binarycdn.b-cdn.net/liz/og-image.png
+image: https://cdn.liz.computer/liz/paper.png
 ---
 <link rel="me" href="https://social.lol/@binarydigit"/>
 <link rel="me" href="mailto:liz@foobox.com">
